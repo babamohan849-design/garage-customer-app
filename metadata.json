@@ -1,0 +1,7 @@
+{
+  "name": "QuickFix Garage Customer App",
+  "description": "A modern customer portal for vehicle service requests, real-time status updates, and appointment confirmations connected to Firebase.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
